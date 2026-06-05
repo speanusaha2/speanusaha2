@@ -85,15 +85,4 @@
 
 > 📖 Full list on my [Google Scholar](https://scholar.google.com/citations?user=7JUi0AQAAAAJ&hl=en).
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
-
-</div>
-
-<div align="center">
-  <sub>Open to collaboration in environmental data science, remote sensing, and agricultural/livestock systems.</sub>
-</div>
