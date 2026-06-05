@@ -1,17 +1,8 @@
-<!--
-  GITHUB PROFILE README
-  ---------------------
-  1. Create a repository named EXACTLY your GitHub username (e.g. github.com/rosspeanusaha/rosspeanusaha)
-  2. Put this file in it as  README.md
-  3. Add your photo to the repo and rename the file below (currently "profile.jpg")
-  4. Replace every  YOUR_GITHUB_USERNAME  with your actual username
--->
-
 <div align="center">
 
   <img src="profile.jpg" alt="Sirapoom Peanusaha" width="170" />
 
-  <h1>Sirapoom &quot;Ross&quot; Peanusaha, PhD</h1>
+  <h1>Sirapoom Peanusaha, PhD</h1>
 
   <h3>Environmental Data Scientist · Remote Sensing · Machine Learning</h3>
 
